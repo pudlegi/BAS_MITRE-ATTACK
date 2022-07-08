@@ -9,7 +9,11 @@ T1098 계정 조작(Account Manipulation)
 그러나 계정 조작으로 인해 권한 상승이 발생할 수 있으며, 수정 시 추가 역할, 권한 또는 더 높은 권한의 유효한 계정에 대한 액세스 권한이 부여될 수 있습니다.
 
 <Attack Payload>
+https://github.com/pudlegi/BAS_MITRE-ATTACK/blob/main/TA0003/payload.jpeg
+-> 첫번째 명령어
+
 https://github.com/pudlegi/BAS_MITRE-ATTACK/blob/main/TA0003/payload.png?raw=true
+-> 두번째 명령어
 
 <Detection>
 공격자가 시스템에 대한 충분한 권한을 가지고 있을 때 일반적으로 쉽게 잡을 수 있는 지속성을 위한 방법이지만 여전히 효과적인 방법은 시스템의 권한을 변경하는 것입니다. 
